@@ -1,17 +1,3 @@
-## Laravel CSV Import with Matching Fields
-
-A demo project with Laravel 8 and Laravel Excel package, to import CSV file and choose the DB fields to match the CSV column.
-
-For design boilerplate, it uses our [Laravel Breeze Pages Skeleton](https://github.com/LaravelDaily/Laravel-Breeze-Pages-Skeleton).
-
-![Laravel CSV Import - CSV File](https://laraveldaily.com/wp-content/uploads/2021/09/Screenshot-2021-09-25-at-11.24.21.png)
-
-![Laravel CSV Import - Pick Fields](https://laraveldaily.com/wp-content/uploads/2021/09/Screenshot-2021-09-25-at-11.23.39.png)
-
-![Laravel CSV Import - Result Table](https://laraveldaily.com/wp-content/uploads/2021/09/Screenshot-2021-09-25-at-11.23.52.png)
-
------
-
 ### How to use
 
 Clone this project to your local computer.
