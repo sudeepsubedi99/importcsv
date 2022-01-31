@@ -1,17 +1,5 @@
 ### How to use
 
-Clone this project to your local computer.
-
-```ps
-git clone https://github.com/LaravelDaily/Laravel-8-Import-CSV.git
-```
-
-Navigate to the project folder.
-
-```ps
-cd Laravel-8-Import-CSV
-```
-
 Install required packages.
 
 ```ps
